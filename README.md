@@ -53,7 +53,7 @@ How To Use:
 Just include the module into your app:
 
 ```javascript
-angular.module("myApp", ["ModuleList"]);
+angular.module("myApp", ["ModelList"]);
 ```
 
 Inject:
